@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuoteApp</string>
+    <string name="previous">PREVIOUS</string>
+    <string name="next">NEXT</string>
+    <string name="bruce_wayne">Bruce Wayne</string>
+    <string name="quotify">QUOTIFY</string>
+</resources>
